@@ -11,7 +11,7 @@ Collins K. Bett
 ## Setup/Installation Requirements
 
 * Install python version 3.6.3
-* Clone https://github.com/collinsbett29/Insta-clone.git
+* Clone https://github.com/collinsbett29/Fermat-near-misses.git
 * Atleast have a computer or a laptop
 * Have an internet connection
 
