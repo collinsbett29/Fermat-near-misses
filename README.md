@@ -19,9 +19,7 @@ Collins K. Bett
 
 | Behavior        | Input           | Output |
 | ------------- |:-------------:| -----:|
-|  produce near-misses of integer triplets that would satisfy
-
-a^n + b^n = c^n for some n > 2.| An integer| near-misses of integer triplets |
+|  produce near-misses of integer triplets that would satisfy a^n + b^n = c^n for some n > 2.| An integer| near-misses of integer triplets |
 ## Technologies Used
 
   * Python version 3.6.8
