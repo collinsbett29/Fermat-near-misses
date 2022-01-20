@@ -6,7 +6,7 @@ Collins K. Bett
 ### Description
 - This application was built using python version 3.
 
-- Near-misses is an simple program that produces  near-misses of integer triplets that would satisfy a^n + b^n = c^n for some n > 2.
+- Near-misses is a simple program that produces  near-misses of integer triplets that would satisfy a^n + b^n = c^n for some n > 2.
 
 ## Setup/Installation Requirements
 
