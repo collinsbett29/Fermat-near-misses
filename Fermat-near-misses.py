@@ -11,3 +11,6 @@ def nearMiss(n):
 
         if (y * y == x and y <= n):
                 ans += 1
+                
+if __name__ == "__main__":
+    n = 10
