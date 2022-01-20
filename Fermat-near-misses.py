@@ -15,6 +15,6 @@ def nearMiss(n):
 	return ans
 
 if __name__ == "__main__":
-	n = 10
+	n = 20
 
 	print(nearMiss(n))
