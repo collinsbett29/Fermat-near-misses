@@ -1,18 +1,20 @@
 import math
 
 def nearMiss(n):
-    ans = 0
 
-    for i in range(1, n + 1):
-     for j in range(i, n + 1):
-        x = i * i + j * j
+	ans = 0
 
-        y = int(math.sqrt(x))
+	for i in range(1, n + 1):
+		for j in range(i, n + 1):
+			x = i * i + j * j
 
-        if (y * y == x and y <= n):
-                ans += 1
-                
+			y = int(math.sqrt(x))
+
+			if (y * y == x and y <= n):
+				ans += 1
+	return ans
+
 if __name__ == "__main__":
-    n = 20
+	n = 10
 
-    print(nearMiss(n))
+	print(nearMiss(n))
