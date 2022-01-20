@@ -8,5 +8,6 @@ def nearMiss(n):
         x = i * i + j * j
 
         y = int(math.sqrt(x))
-        
+
         if (y * y == x and y <= n):
+                ans += 1
