@@ -23,18 +23,14 @@ Collins K. Bett
 ## Technologies Used
 
   * Python version 3.6.8
-  * Django version 1.11
-  * Bootstrap 3
-  * Postgres Database
-  * HTML & CSS 
-  * Heroku
+
 
 ## License
 
 This project is licenced under the MIT License.
 
 
-            © Collins K. Bett | 2019
+            © Collins K. Bett | 2022
 
 
 
